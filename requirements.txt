@@ -1,0 +1,7 @@
+streamlit>=1.41
+deepface==0.0.100
+tf-keras
+opencv-python-headless
+plotly
+pandas
+numpy

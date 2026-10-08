@@ -6,7 +6,7 @@ Detección de emociones faciales **multi-persona** con IA (7 emociones), dashboa
 
 > 🌿 Herramienta educativa y de apoyo al bienestar. No constituye evaluación psicológica ni diagnóstico.
 
-## ✏️ Cambiar el nombre (ATHENA / LUCIANA)
+## ✏️ ATHENA
 
 Abre `app.py` y edita las dos primeras constantes:
 
